@@ -1,0 +1,1 @@
+{"uuid":"2527ce51-c7b5-409a-9f90-de2a9b52a1a5","name":"test.BaseTest.openDriver","children":["f55090a2-5dae-45bf-81b8-86ade1826512"],"description":"","befores":[{"name":"openDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1744836813043,"stop":1744836813049}],"afters":[],"start":1744836813043,"stop":1744836813049}

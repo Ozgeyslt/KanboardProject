@@ -1,0 +1,1 @@
+{"uuid":"57b022dd-fe5b-469d-9897-3dcc012c91fe","name":"steps.NewProjectTest.before","children":["7f2d939a-fa68-46e9-b856-52953d8f52d9"],"description":"","befores":[{"name":"before","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1735067658086,"stop":1735067658383}],"afters":[],"start":1735067658086,"stop":1735067658383}
