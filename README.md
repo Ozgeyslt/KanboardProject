@@ -1,7 +1,7 @@
 # Kanboard UI Testing Project
 This project involves UI test automation for [Kanboard](https://kanboard.org/), an open-source project management software. The purpose of these tests is to verify the core functionality and elements of key pages in the Kanboard web application, ensuring UI components behave as expected.
 
-The goal is to ensure that the user interface is responsive, accurate, and reliable for typical user workflows in Kanboard. The tests are designed following the Page Object Model (POM) structure and use Cucumber-style annotations for clear and maintainable test steps. The tests cover several important pages of the Kanboard application.
+The goal is to ensure that the user interface is responsive, accurate, and reliable for typical user workflows in Kanboard. I have used Docker to deploy the application. The tests are designed following the Page Object Model (POM) structure and use Cucumber-style annotations for clear and maintainable test steps. The tests cover several important pages of the Kanboard application.
 
 Technologies Used
 -
